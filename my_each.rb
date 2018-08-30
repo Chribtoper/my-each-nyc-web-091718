@@ -1,3 +1,6 @@
 def my_each(arg)
-  # code here
+  i = 0
+  while i < arg.length
+
+end
 end
